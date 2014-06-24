@@ -43,8 +43,7 @@ A curated list of amazingly awesome open source rails related resources inspired
 	- [Websites](#websites)
 	- [Books](#books)
 	- [Web Reading](#web-reading)
-	- [PHP Reading](#php-reading)
-	- [PHP Internals Reading](#php-internals-reading)
+	- [Rails Reading](#rails-reading)
 - [Contributing](#contributing)
 
 ## Package Management
