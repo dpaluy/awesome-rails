@@ -1,4 +1,4 @@
-awesome-rails
-=============
-
+# Awesome Rails
 A curated list of amazingly awesome open source rails related resources inspired by Awesome PHP.
+
+
