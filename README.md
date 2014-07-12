@@ -1,6 +1,8 @@
 # Awesome Rails
 A curated list of amazingly awesome open source rails related resources inspired by Awesome PHP.
 
+Check also: https://github.com/markets/awesome-ruby
+
 - [Awesome Rails](#awesome-rails)
 	- [Package Management](#package-management)
 	- [Templating](#templating)
