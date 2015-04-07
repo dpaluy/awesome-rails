@@ -23,8 +23,7 @@ Check also: https://github.com/markets/awesome-ruby
 	- [Logging](#logging)
 	- [SEO](#seo)
 	- [PDF](#pdf)
-	- [ORM and Datamapping](#orm-and-datamapping)
-	- [NoSQL](#nosql)
+	- [Analytics](#analytics)
 	- [Queue](#queue)
 	- [Production](#production)
 	- [Command Line](#command-line)
@@ -156,15 +155,10 @@ TBD
 * [Wicked PDF](https://github.com/mileszs/wicked_pdf) - A tool to convert HTML to PDF.
 * [Grimm](https://github.com/jonmagic/grim) - A tool for extracting pages from pdf as images and text as strings.
 
-## ORM and Datamapping
-*Libraries that implement object-relational mapping or datamapping techniques.*
+## Analytics
+*Libraries for user analytics.*
 
-TBD
-
-## NoSQL
-*Libraries for working with "NoSQL" backends.*
-
-TBD
+* [Marketable for Devise](https://github.com/n8/devise_marketable) - Marketable lets  Devise users easily store where your user came from and where they were going in your Rails app.
 
 ## Queue
 *Libraries for working with event and task queues.*
