@@ -24,7 +24,7 @@ Check also: https://github.com/markets/awesome-ruby
 	- [SEO](#seo)
 	- [PDF](#pdf)
 	- [Analytics](#analytics)
-	- [Queue](#queue)
+	- [Optimization](#optimization)
 	- [Production](#production)
 	- [Command Line](#command-line)
 	- [Authentication](#authentication)
@@ -160,10 +160,11 @@ TBD
 
 * [Marketable for Devise](https://github.com/n8/devise_marketable) - Marketable lets  Devise users easily store where your user came from and where they were going in your Rails app.
 
-## Queue
-*Libraries for working with event and task queues.*
+## Optimization
+*Libraries to optimize your rails application.*
 
-TBD
+* [Counter Culture](https://github.com/magnusvk/counter_culture) - Turbo-charged counter caches for your Rails app.
+* [OJ](https://github.com/ohler55/oj) - A fast JSON parser and Object marshaller as a Ruby gem.
 
 ## Production
 *Tools for production*
