@@ -223,6 +223,7 @@ TBD
 
 * [Capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool.
 * [Capistrano Unicorn](https://github.com/tablexi/capistrano3-unicorn) - Unicorn tasks for Capistrano.
+* [Capistrano Fifty Five](https://github.com/mattbrictson/capistrano-fiftyfive) - recipes for use with capistrano to automate installation of a full-stack Rails environment
 * [Airbrussh](https://github.com/mattbrictson/airbrussh) - pretties up your SSHKit and Capistrano output
 * [Pinglish](https://github.com/jbarnette/pinglish) - A simple Rack middleware for checking application health.
 
