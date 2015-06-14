@@ -202,7 +202,7 @@ TBD
 ## REST and API
 *Libraries and web tools for developing REST-ful APIs.*
 
-TBD
+* [Apipie](https://github.com/Apipie/apipie-rails) - API Documentation Tool
 
 ## Caching
 *Libraries for caching data.*
