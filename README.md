@@ -16,7 +16,8 @@ Check also: https://github.com/markets/awesome-ruby
 	- [Documentation](#documentation)
 	- [Security](#security)
 	- [Code Analysis](#code-analysis)
-	- [Asset Management](#asset-management)
+	- [Assets Management](#assets-management)
+	- [ActiveRecord](#activerecord)
 	- [Geolocation](#geolocation)
 	- [Date and Time](#date-and-time)
 	- [Feature Toggling](#feature-toggling)
@@ -118,6 +119,16 @@ Check also: https://github.com/markets/awesome-ruby
 
 * [SimpleCov](https://github.com/colszowka/simplecov) - Code Coverage.
 * [Excellent](https://github.com/simplabs/excellent) - Source Code analysis gem for Ruby and Rails.
+
+## Assets Management
+*Libraries and tools for Assets management.*
+
+* [Non-stupid non-digest assets](https://github.com/alexspeller/non-stupid-digest-assets) - compile both digest and non-digest assets in Rails 4.
+
+## ActiveRecord
+*Libraries and tools for ActiveRecord tweaks.*
+
+* [Obfuscate ID](https://github.com/namick/obfuscate_id) - Make your ActiveRecord ids non-obvious.
 
 ## Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
