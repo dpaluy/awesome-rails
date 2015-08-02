@@ -10,6 +10,7 @@ Check also: https://github.com/markets/awesome-ruby
 	- [HTTP](#http)
 	- [Crawlers and Scrapers](#crawlers-and-scrapers)
 	- [Email](#email)
+	- [ETL](#etl)
 	- [Files](#files)
 	- [Imagery](#imagery)
 	- [Testing](#testing)
@@ -86,6 +87,11 @@ Check also: https://github.com/markets/awesome-ruby
 *Libraries for sending and parsing email.*
 
 * [MailCheck](https://github.com/mailcheck/mailcheck) - Reduce user-misspelled email addresses in your forms.
+
+## ETL - Extract-Transform-Load
+*Data-processing libraries.*
+
+* [Kiba](https://github.com/thbar/kiba) - the ETL framework for Ruby.
 
 ## Files
 *Libraries for file manipulation and MIME type detection.*
@@ -169,7 +175,8 @@ TBD
 ## Analytics
 *Libraries for user analytics.*
 
-* [Marketable for Devise](https://github.com/n8/devise_marketable) - Marketable lets  Devise users easily store where your user came from and where they were going in your Rails app.
+* [Marketable for Devise](https://github.com/n8/devise_marketable) - Marketable lets Devise users easily store where your user came from and where they were going in your Rails app.
+* [Meta events](https://github.com/swiftype/meta_events) - is a Ruby gem that sits on top of a user-centric analytics system like Mixpanel and provides structure, documentation, and a historical record to events, and a powerful properties system that makes it easy to pass large numbers of consistent properties with your events.
 
 ## Optimization
 *Libraries to optimize your rails application.*
