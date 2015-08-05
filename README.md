@@ -274,6 +274,7 @@ TBD
 *WYSIWIG editors*
 
 * [Bootsy](https://github.com/volmer/bootsy) - is a WYSIWYG editor for Rails based on Bootstrap3-wysihtml5 with image uploads using CarrierWave
+* [Froala jQuery WYSIWYG](https://github.com/froala/wysiwyg-rails) - wysiwyg-rails provides the Froala WYSIWYG HTML Editor javascript and stylesheets as a Rails engine for use with the asset pipeline
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Rails development skills and knowledge.
