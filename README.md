@@ -274,6 +274,7 @@ TBD
 *WYSIWIG editors*
 
 * [Bootsy](https://github.com/volmer/bootsy) - is a WYSIWYG editor for Rails based on Bootstrap3-wysihtml5 with image uploads using CarrierWave
+* [Mercury Editor 2](https://github.com/jejacks0n/mercury/tree/mercury2) - full featured HTML5 editor
 * [Froala jQuery WYSIWYG](https://github.com/froala/wysiwyg-rails) - (**Comercial**) provides the Froala WYSIWYG HTML Editor javascript and stylesheets as a Rails engine for use with the asset pipeline
 * [Sir Trevor](https://github.com/madebymany/sir-trevor-rails) - Medium like editor
 
