@@ -41,7 +41,7 @@ Check also: https://github.com/markets/awesome-ruby
 	- [Third Party APIs](#third-party-apis)
 	- [Miscellaneous](#miscellaneous)
 	- [Development Software](#development-software)
-	- [Web Tools](#web-tools)
+	- [WYSIWYG](#wysiwyg)
 - [Resources](#resources)
 	- [Websites](#websites)
 	- [Books](#books)
@@ -270,10 +270,10 @@ TBD
 * [Chef](https://github.com/opscode/chef) - A systems integration framework.
 * [Backup](https://github.com/meskyanichi/backup) - A server backup tool.
 
-## Web Tools
-*Web-based tools.*
+## WYSIWIG
+*WYSIWIG editors*
 
-TBD
+* [Bootsy](https://github.com/volmer/bootsy) - is a WYSIWYG editor for Rails based on Bootstrap3-wysihtml5 with image uploads using CarrierWave
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Rails development skills and knowledge.
