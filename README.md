@@ -25,6 +25,7 @@ Check also: https://github.com/markets/awesome-ruby
 	- [Logging](#logging)
 	- [SEO](#seo)
 	- [PDF](#pdf)
+	- [Performance](#performance)
 	- [Analytics](#analytics)
 	- [Optimization](#optimization)
 	- [Production](#production)
@@ -172,6 +173,13 @@ TBD
 * [Prawn](https://github.com/prawnpdf/prawn) - A PDF generation library.
 * [Wicked PDF](https://github.com/mileszs/wicked_pdf) - A tool to convert HTML to PDF.
 * [Grimm](https://github.com/jonmagic/grim) - A tool for extracting pages from pdf as images and text as strings.
+
+## Performance
+*Libraries to dubug and solve performance issues*
+
+* [Alocation Tracer](https://github.com/ko1/allocation_tracer) - allows to trace object allocation.
+* [Memory Profiler](https://github.com/SamSaffron/memory_profiler) - A memory profiler for Ruby & Rails apps.
+* [Derailed Benchmarks](https://github.com/schneems/derailed_benchmarks) - Benchmarks for your whole Rails app.
 
 ## Analytics
 *Libraries for user analytics.*
