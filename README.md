@@ -67,6 +67,7 @@ Check also: https://github.com/markets/awesome-ruby
 
 * [HighVoltage](https://github.com/thoughtbot/high_voltage) - Rails engine for static pages.
 * [Refinery CMS](http://refinerycms.com/) - Rails-based CMS.
+* [Camaleon CMS](http://camaleon.tuzitio.com/) - Rails-based CMS.
 
 ## Dashboards
 
@@ -78,6 +79,7 @@ Check also: https://github.com/markets/awesome-ruby
 
 * [Faraday](https://github.com/lostisland/faraday) - flexible HTTP client library, with support for multiple backends.
 * [Typhoeus](https://github.com/typhoeus/typhoeus) - wraps libcurl in order to make fast and reliable requests.
+* [Whois](https://github.com/weppos/whois) - An intelligent pure Ruby WHOIS client and parser
 
 ## Crawlers and Scrapers
 *Libraries for crawling/scraping the Web.*
