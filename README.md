@@ -43,6 +43,7 @@ Check also: https://github.com/markets/awesome-ruby
 	- [Miscellaneous](#miscellaneous)
 	- [Development Software](#development-software)
 	- [WYSIWYG](#wysiwyg)
+	- [Background Job](#background-job)
 - [Resources](#resources)
 	- [Websites](#websites)
 	- [Books](#books)
@@ -287,6 +288,10 @@ TBD
 * [Mercury Editor 2](https://github.com/jejacks0n/mercury/tree/mercury2) - full featured HTML5 editor
 * [Froala jQuery WYSIWYG](https://github.com/froala/wysiwyg-rails) - (**Comercial**) provides the Froala WYSIWYG HTML Editor javascript and stylesheets as a Rails engine for use with the asset pipeline
 * [Sir Trevor](https://github.com/madebymany/sir-trevor-rails) - Medium like editor
+
+## Background Job
+
+* [Sidekiq Statistics](https://github.com/davydovanton/sidekiq-statistic) - Improved display of statistics for your sidekiq workers and jobs.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Rails development skills and knowledge.
