@@ -24,6 +24,7 @@ Check also: https://github.com/markets/awesome-ruby
 	- [Feature Toggling](#feature-toggling)
 	- [Logging](#logging)
 	- [SEO](#seo)
+	- [Meta](#meta)
 	- [PDF](#pdf)
 	- [Performance](#performance)
 	- [Analytics](#analytics)
@@ -145,8 +146,7 @@ Check also: https://github.com/markets/awesome-ruby
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
 
 * [GeoKit](https://github.com/geokit/geokit-rails) - Geokit plugin for Rails/ActiveRecord.
-* [Zip Codes](https://github.com/monterail/zip-codes) - Identify city and
-  States for given Zip code
+* [Zip Codes](https://github.com/monterail/zip-codes) - Identify city and States for given Zip code
 
 ## Date and Time
 *Libraries for working with dates and times.*
@@ -169,6 +169,11 @@ TBD
 
 * [Meta Tags](https://github.com/kpumuk/meta-tags) - Search Engine Optimization (SEO) plugin for Ruby on Rails applications.
 * [Human Power](https://github.com/lassebunk/human_power) - Generate robots.txt
+
+## Meta
+*Libraries for MetaData.*
+
+* [Preloadables](https://github.com/jacopotarantino/preloadables) - is exposing a set of view helpers for outputting HTML metadata related to domains, assets and pages that you would like to preload/prerender.
 
 ## PDF
 *Libraries and software for working with PDF files.*
