@@ -109,6 +109,7 @@ Check also: https://github.com/markets/awesome-ruby
 *Libraries for manipulating images.*
 
 * [MiniMagick](https://github.com/minimagick/minimagick) - An image manipulation library.
+* [CarrierWave::BombShelter](https://github.com/DarthSim/carrierwave-bombshelter) - is a module which protects your uploaders from image bombs. It checks pixel dimensions of uploaded image before ImageMagick touches it.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
