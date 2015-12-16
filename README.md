@@ -45,6 +45,7 @@ Check also: https://github.com/markets/awesome-ruby
 	- [Development Software](#development-software)
 	- [WYSIWYG](#wysiwyg)
 	- [Background Job](#background-job)
+	- [Visual Goodies](#visual-goodies)
 - [Resources](#resources)
 	- [Websites](#websites)
 	- [Books](#books)
@@ -298,6 +299,12 @@ TBD
 ## Background Job
 
 * [Sidekiq Statistics](https://github.com/davydovanton/sidekiq-statistic) - Improved display of statistics for your sidekiq workers and jobs.
+
+## Visual Goodies
+*Client side tools integrated with Rails*
+
+* [NProgress](https://github.com/caarlos0/nprogress-rails) - [nprogress library](https://github.com/rstacruz/nprogress) progress bar
+  wrapper
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Rails development skills and knowledge.
