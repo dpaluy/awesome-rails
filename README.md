@@ -143,6 +143,7 @@ Check also: https://github.com/markets/awesome-ruby
 *Libraries and tools for ActiveRecord tweaks.*
 
 * [Obfuscate ID](https://github.com/namick/obfuscate_id) - Make your ActiveRecord ids non-obvious.
+* [Data Miner](https://github.com/seamusabshere/data_miner) - import XLS, ODS, XML, CSV, HTML, etc. into the ActiveRecord models
 
 ## Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
