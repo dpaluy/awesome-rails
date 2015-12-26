@@ -165,7 +165,7 @@ Check also: https://github.com/markets/awesome-ruby
 ## Logging
 *Libraries for generating and working with log files.*
 
-TBD
+* [Lograge](https://github.com/roidrage/lograge) - Taming Rails' Default Request Logging
 
 ## SEO
 *Libraries for SEO.*
