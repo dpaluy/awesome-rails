@@ -40,6 +40,7 @@ Check also: https://github.com/markets/awesome-ruby
 	- [Data Structure and Storage](#data-structure-and-storage)
 	- [Notifications](#notifications)
 	- [Deployment](#deployment)
+	- [Parser](#parser)
 	- [Third Party APIs](#third-party-apis)
 	- [Miscellaneous](#miscellaneous)
 	- [Development Software](#development-software)
@@ -265,15 +266,15 @@ TBD
 * [Airbrussh](https://github.com/mattbrictson/airbrussh) - pretties up your SSHKit and Capistrano output
 * [Pinglish](https://github.com/jbarnette/pinglish) - A simple Rack middleware for checking application health.
 
+## Parser
+*Libraries for parsing*
+
+* [Parslet](https://kschiess.github.io/parslet/get-started.html) - A small Ruby library for constructing parsers in the PEG (Parsing Expression Grammar) fashion.
+
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
 
 TBD
-* [Amazon Web Service SDK]() - The official PHP AWS SDK library.
-* [Stripe]() - The official Stripe PHP library.
-* [Github]() - A library to interface with the Github API.
-* [Twitter OAuth]() - A library to interface with Twitter's OAuth workflow.
-* [Twilio]() - The official Twilio PHP REST API.
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
