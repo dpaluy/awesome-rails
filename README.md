@@ -340,7 +340,7 @@ TBD
 
 TBD
 
-# Credentials
+# Credits
 
 TravisCI validation code by [jondot](https://github.com/jondot). Origin: https://github.com/jondot/awesome-react-native
 
