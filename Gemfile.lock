@@ -1,0 +1,25 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    httparty (0.13.7)
+      json (~> 1.8)
+      multi_xml (>= 0.5.2)
+    json (1.8.3)
+    kramdown (1.9.0)
+    mini_portile2 (2.0.0)
+    multi_xml (0.5.5)
+    nokogiri (1.6.7.1)
+      mini_portile2 (~> 2.0.0.rc2)
+    parallel (1.6.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  httparty
+  kramdown
+  nokogiri
+  parallel
+
+BUNDLED WITH
+   1.11.2
