@@ -1,6 +1,8 @@
 # Awesome Rails
 A curated list of amazingly awesome open source rails related resources inspired by Awesome PHP.
 
+[![Build Status](https://travis-ci.org/dpaluy/awesome-rails.svg?branch=master)](https://travis-ci.org/dpaluy/awesome-rails)
+
 Check also: https://github.com/markets/awesome-ruby
 
 - [Awesome Rails](#awesome-rails)
