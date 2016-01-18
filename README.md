@@ -340,5 +340,9 @@ TBD
 
 TBD
 
+# Credentials
+
+TravisCI validation code by [jondot](https://github.com/jondot). Origin: https://github.com/jondot/awesome-react-native
+
 # Contributing
 Please see [CONTRIBUTING](https://github.com/dpaluy/awesome-rails/blob/master/CONTRIBUTING.md) for details.
