@@ -316,7 +316,7 @@ Various resources, such as books, websites and articles, for improving your Rail
 ## Websites
 *Useful web and PHP-related websites and newsletters.*
 
-TBD
+* [Programming Community Curated Resources For Learning Ruby on Rails](https://hackr.io/tutorials/learn-ruby-on-rails)
 
 ## Books
 *Fantastic books and e-books.*
