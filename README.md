@@ -22,6 +22,7 @@ Check also: https://github.com/markets/awesome-ruby
 	- [Assets Management](#assets-management)
 	- [ActiveRecord](#activerecord)
 	- [Geolocation](#geolocation)
+	- [Search](#search)
 	- [Date and Time](#date-and-time)
 	- [Feature Toggling](#feature-toggling)
 	- [Logging](#logging)
@@ -153,6 +154,12 @@ Check also: https://github.com/markets/awesome-ruby
 
 * [GeoKit](https://github.com/geokit/geokit-rails) - Geokit plugin for Rails/ActiveRecord.
 * [Zip Codes](https://github.com/monterail/zip-codes) - Identify city and States for given Zip code
+
+## Search
+* Libraries for search
+
+* [PG Search](https://github.com/Casecommons/pg_search) - builds ActiveRecord named scopes that take advantage of PostgreSQL’s full text search 
+* [searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy with Rails and Elasticsearch 
 
 ## Date and Time
 *Libraries for working with dates and times.*
