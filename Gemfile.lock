@@ -6,10 +6,10 @@ GEM
       multi_xml (>= 0.5.2)
     json (1.8.3)
     kramdown (1.9.0)
-    mini_portile2 (2.0.0)
+    mini_portile2 (2.4.0)
     multi_xml (0.5.5)
-    nokogiri (1.6.7.1)
-      mini_portile2 (~> 2.0.0.rc2)
+    nokogiri (1.10.4)
+      mini_portile2 (~> 2.4.0)
     parallel (1.6.1)
 
 PLATFORMS
