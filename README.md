@@ -275,6 +275,7 @@ TBD
 * [Capistrano Fifty Five](https://github.com/mattbrictson/capistrano-fiftyfive) - recipes for use with capistrano to automate installation of a full-stack Rails environment
 * [Airbrussh](https://github.com/mattbrictson/airbrussh) - pretties up your SSHKit and Capistrano output
 * [Pinglish](https://github.com/jbarnette/pinglish) - A simple Rack middleware for checking application health.
+* [Flipper](https://github.com/jnunemaker/flipper) - A Allows appplications to be deployable by feature only.
 
 ## Parser
 *Libraries for parsing*
