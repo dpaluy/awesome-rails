@@ -1,4 +1,4 @@
 language: ruby
 rvm:
-  - 2.2
+  - 2.6.5
 script: bundle exec ruby dedup.rb && bundle exec ruby validate.rb
