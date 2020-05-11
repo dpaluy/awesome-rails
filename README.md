@@ -9,6 +9,7 @@ Check also: https://github.com/markets/awesome-ruby
 	- [Package Management](#package-management)
 	- [Templating](#templating)
 	- [Static Pages](#static-pages)
+	- [Dashboards](#dashboards)
 	- [HTTP](#http)
 	- [Crawlers and Scrapers](#crawlers-and-scrapers)
 	- [Email](#email)
@@ -47,7 +48,7 @@ Check also: https://github.com/markets/awesome-ruby
 	- [Third Party APIs](#third-party-apis)
 	- [Miscellaneous](#miscellaneous)
 	- [Development Software](#development-software)
-	- [WYSIWYG](#wysiwyg)
+	- [WYSIWIG](#wysiwig)
 	- [Background Job](#background-job)
 	- [Visual Goodies](#visual-goodies)
 - [Resources](#resources)
@@ -55,6 +56,7 @@ Check also: https://github.com/markets/awesome-ruby
 	- [Books](#books)
 	- [Web Reading](#web-reading)
 	- [Rails Reading](#rails-reading)
+- [Credits](#credits)
 - [Contributing](#contributing)
 
 ## Package Management
@@ -98,7 +100,7 @@ Check also: https://github.com/markets/awesome-ruby
 
 * [MailCheck](https://github.com/mailcheck/mailcheck) - Reduce user-misspelled email addresses in your forms.
 
-## ETL - Extract-Transform-Load
+## ETL
 *Data-processing libraries.*
 
 * [Kiba](https://github.com/thbar/kiba) - the ETL framework for Ruby.
