@@ -351,6 +351,11 @@ TBD
 
 TBD
 
+## Rails Videos
+*Rails online courses, screencasts, etc*
+
+* [List of 80 free and paid Ruby on Rails courses from top e-learning platforms](https://classpert.com/ruby-on-rails) - A directory of RoR online courses by Classpert, an online course search engine.
+
 # Credits
 
 TravisCI validation code by [jondot](https://github.com/jondot). Origin: https://github.com/jondot/awesome-react-native
