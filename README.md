@@ -51,6 +51,7 @@ Check also: https://github.com/markets/awesome-ruby
 	- [WYSIWIG](#wysiwig)
 	- [Background Job](#background-job)
 	- [Visual Goodies](#visual-goodies)
+	- [Starters/Boilerplates](#startersboilerplates)
 - [Resources](#resources)
 	- [Websites](#websites)
 	- [Books](#books)
@@ -320,6 +321,10 @@ TBD
 
 * [NProgress](https://github.com/caarlos0/nprogress-rails) - [nprogress library](https://github.com/rstacruz/nprogress) progress bar
   wrapper
+  
+## Starters/Boilerplates
+- [Rails Devise GraphQL](https://github.com/zauberware/rails-devise-graphql) - A Rails 6 boilerplate to create your next Saas product. Preloaded with graphQL, devise, JWT, CanCanCan, RailsAdmin, Rubocop, Rspec, and more.
+- [Rails Template](https://github.com/mattbrictson/rails-template) - Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Rails development skills and knowledge.
