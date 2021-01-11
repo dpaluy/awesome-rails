@@ -149,6 +149,7 @@ Check also: https://github.com/markets/awesome-ruby
 ## ActiveRecord
 *Libraries and tools for ActiveRecord tweaks.*
 
+* [ActiveRecordExtended](https://github.com/GeorgeKaraszi/ActiveRecordExtended) - adds additional PostgreSQL quering abilities to ActiveRecord
 * [ActiveRecord Import](https://github.com/zdennis/activerecord-import) - A library for bulk insertion of data into your database using ActiveRecord. 
 * [Obfuscate ID](https://github.com/namick/obfuscate_id) - Make your ActiveRecord ids non-obvious.
 * [Data Miner](https://github.com/seamusabshere/data_miner) - import XLS, ODS, XML, CSV, HTML, etc. into the ActiveRecord models
